@@ -4,7 +4,7 @@ Um laboratório experimental baseado no [wikihouse](http://wikihouse.cc/) e na [
 
 [English version here](english.md)
 
-![](<div class="sketchfab-embed-wrapper"> <iframe title="wikilab 01" frameborder="0" allowfullscreen mozallowfullscreen="true" webkitallowfullscreen="true" allow="autoplay; fullscreen; xr-spatial-tracking" xr-spatial-tracking execution-while-out-of-viewport execution-while-not-rendered web-share src="https://sketchfab.com/models/bab56ed7d2414e13b3eacd6c2f29ce65/embed"> </iframe> <p style="font-size: 13px; font-weight: normal; margin: 5px; color: #4A4A4A;"> <a href="https://sketchfab.com/3d-models/wikilab-01-bab56ed7d2414e13b3eacd6c2f29ce65?utm_medium=embed&utm_campaign=share-popup&utm_content=bab56ed7d2414e13b3eacd6c2f29ce65" target="_blank" style="font-weight: bold; color: #1CAAD9;"> wikilab 01 </a> by <a href="https://sketchfab.com/yorivanhavre?utm_medium=embed&utm_campaign=share-popup&utm_content=bab56ed7d2414e13b3eacd6c2f29ce65" target="_blank" style="font-weight: bold; color: #1CAAD9;"> yorivanhavre </a> on <a href="https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=bab56ed7d2414e13b3eacd6c2f29ce65" target="_blank" style="font-weight: bold; color: #1CAAD9;">Sketchfab</a></p></div>)
+![](https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=bab56ed7d2414e13b3eacd6c2f29ce65)
 
 ![](fotos/obra/2017.11.29/IMG_20171129_113912.jpg)
 
