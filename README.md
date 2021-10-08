@@ -4,7 +4,7 @@ Um laboratório experimental baseado no [wikihouse](http://wikihouse.cc/) e na [
 
 [English version here](english.md)
 
-![](https://sketchfab.com?utm_medium=embed&utm_campaign=share-popup&utm_content=bab56ed7d2414e13b3eacd6c2f29ce65)
+![](https://sketchfab.com/oembed?url=https://sketchfab.com/models/bab56ed7d2414e13b3eacd6c2f29ce65)
 
 ![](fotos/obra/2017.11.29/IMG_20171129_113912.jpg)
 
